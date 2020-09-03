@@ -1,2 +1,2 @@
 # spa-angular
-Repo fpr Single Page Application in Angular
+Repo for Single Page Application in Angular
